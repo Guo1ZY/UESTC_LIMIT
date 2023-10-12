@@ -1,0 +1,3 @@
+/home/zy/pcl_test/t3/build/CMakeFiles/edit_cache.dir
+/home/zy/pcl_test/t3/build/CMakeFiles/rebuild_cache.dir
+/home/zy/pcl_test/t3/build/CMakeFiles/PointCloudViewer.dir

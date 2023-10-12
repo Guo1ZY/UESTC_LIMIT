@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zy/pcl_test/DBSCAN/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DEIGEN_HAS_CXX17_OVERALIGN=0 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/local/include/pcl-1.13 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -msse4.2 -mfpmath=sse -march=native -mavx2 -fopenmp -fPIC -std=gnu++14 -o CMakeFiles/PointCloudViewer.dir/main.cpp.o -c /home/zy/pcl_test/DBSCAN/main.cpp",
+  "file": "/home/zy/pcl_test/DBSCAN/main.cpp"
+}
+]
